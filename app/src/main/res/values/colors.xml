@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary dark color of the app (shown in the status bar), default color is black -->
+    <color name="colorPrimaryDark">@null</color>
+
+    <!-- Primary color of the app (shown in the app bar), default color is white -->
+    <color name="colorPrimary">@null</color>
+
+    <!-- Accent color of the app, give to image in ImageView -->
+    <color name="colorAccent">#5994f5</color>
+
+</resources>
